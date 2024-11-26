@@ -1,0 +1,14 @@
+
+Goals
+
+- I will learn Python by following this Learning Plan (https://swe-learning-plans.netlify.app/languages/python.html) starting on 25/11/2024
+
+- I will finish the Learning Plan linked above by 6/12/2024
+
+Expectations
+
+- If im stuck ill research the task some more using online sources and even ChatGPT
+
+- If im still stuck I will seek help from those around me to explain why and how the error is ocurring.
+
+- If I really have to go to the bathroom but don’t want to stop working because I’m in the zone and knocking out some awesome code, then I will first poo my pants annd then commit my code before going to the toilet.
