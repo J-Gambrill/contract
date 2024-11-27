@@ -166,7 +166,7 @@ print(x)
 
 #function using module
 
-import Module1
+import Module1 as Module1
 
 name = str(input('Enter your name: '))
 print(Module1.Greeting(name))
